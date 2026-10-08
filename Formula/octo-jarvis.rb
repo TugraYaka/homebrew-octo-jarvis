@@ -1,8 +1,8 @@
 class OctoJarvis < Formula
   desc "Terminal AI assistant powered by Gemini, with optional spoken replies"
   homepage "https://github.com/TugraYaka/octo-jarvis"
-  url "https://github.com/TugraYaka/octo-jarvis/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "32d587714c176d55f346aca15eb492a94ecbda0632f373a9ae44c5fd61e1c9ef"
+  url "https://github.com/TugraYaka/octo-jarvis/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "ad99567d25a5ee8015e54796837282b16ddb2baad8ee7640437ec72584947e6e"
   license "MIT"
   head "https://github.com/TugraYaka/octo-jarvis.git", branch: "main"
 
